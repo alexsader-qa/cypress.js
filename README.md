@@ -51,4 +51,4 @@ npx cypress run --spec cypress/e2e/Avatars.cy.js --browser chrome
 
 ## Автор
 
-Фенев Александр ([@@Alex_Fenecks](https://t.me/Alex_Fenecks))
+Фенев Александр ([@Alex_Fenecks](https://t.me/Alex_Fenecks))
