@@ -30,7 +30,7 @@
 2. Перейти в терминале в директорию проекта
 2. Выполнить команду:
 ```
-npx cypress run --spec cypress/e2e/lesson_locators.cy.js --browser chrome
+npx cypress run --spec cypress/e2e/Avatars.cy.js --browser chrome
 ```
 Ожидаемый результат: получим отчет о прохождении тестов.
 ![image](https://raw.githubusercontent.com/alexsader-qa/cypress.js/refs/heads/main/static/Cypress_cli.png)
@@ -51,4 +51,4 @@ npx cypress run --spec cypress/e2e/lesson_locators.cy.js --browser chrome
 
 ## Автор
 
-Герман Дольников ([@dolnikov](https://t.me/dolnikov))
+Фенев Александр ([@@Alex_Fenecks](https://t.me/Alex_Fenecks))
